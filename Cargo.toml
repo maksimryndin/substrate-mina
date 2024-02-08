@@ -10,7 +10,7 @@ panic = "unwind"
 
 
 [workspace.dependencies]
-clap = { version = "4.4.2", features = ["derive"] }
+clap = { version = "4.5.0", features = ["derive"] }
 codec = { package = "parity-scale-codec", version = "3.6.1", default-features = false, features = ["derive"] }
 frame-benchmarking-cli = { version = "31.0" }
 frame-benchmarking = { version = "27.0", default-features = false }
