@@ -32,7 +32,7 @@ pallet-timestamp = { version = "26.0", default-features = false }
 pallet-transaction-payment-rpc-runtime-api = { version = "27.0", default-features = false }
 pallet-transaction-payment-rpc = { version = "29.0" }
 pallet-transaction-payment = { version = "27.0", default-features = false }
-scale-info = { version = "2.5.0", default-features = false, features = ["derive"] }
+scale-info = { version = "2.11.1", default-features = false, features = ["derive"] }
 sc-basic-authorship = { version = "0.33" }
 sc-client-api = { version = "27.0" }
 sc-cli = { version = "0.35.0" }
