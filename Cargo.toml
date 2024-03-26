@@ -48,7 +48,7 @@ sc-statement-store = { version = "9.0" }
 sc-telemetry = { version = "14.0" }
 sc-transaction-pool-api = { version = "27.0" }
 sc-transaction-pool = { version = "27.0" }
-serde_json = { version = "1.0.111", default-features = false, features = ["alloc"] }
+serde_json = { version = "1.0.115", default-features = false, features = ["alloc"] }
 sp-api = { version = "25.0", default-features = false }
 sp-block-builder = { version = "25.0", default-features = false }
 sp-blockchain = { version = "27.0" }
